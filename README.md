@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Onuche Umar</h1>
-<h3 align="center">A passionate software craftsman and open sourcer from nigeria</h3>
+<h1 align="center">Hi 👋, I'm Ibrahim O. Umar</h1>
+<h3 align="center">Software Developer and Open Source Contributor</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=onuchecodes&label=Profile%20views&color=0e75b6&style=flat" alt="onuchecodes" /> </p>
 
 - 🌱 I’m currently learning **blockchain and smart contract engineering**
 
